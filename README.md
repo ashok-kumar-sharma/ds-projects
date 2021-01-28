@@ -12,3 +12,5 @@ Following are the list of projects:
   -Employees Salary Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/employees-salary-project
   
   -Mushroom Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/mushroom-project
+  
+  -World Happiness Score Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/world-happiness-score-project
