@@ -14,3 +14,6 @@ Following are the list of projects:
   -Mushroom Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/mushroom-project
   
   -World Happiness Score Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/world-happiness-score-project
+
+  -Big Data Mart Problem Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/big-data-mart-problem-project
+  
