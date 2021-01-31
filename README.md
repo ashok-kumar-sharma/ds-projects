@@ -17,3 +17,4 @@ Following are the list of projects:
 
   -Big Data Mart Problem Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/big-data-mart-problem-project
   
+  -Crime in India Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/crime-in-india-project
