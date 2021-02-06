@@ -20,3 +20,5 @@ Following are the list of projects:
   -Crime in India Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/crime-in-india-project
   
   -Avacado Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/avacado-project
+  
+  -HR Analytics Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/hr-analytics-project
