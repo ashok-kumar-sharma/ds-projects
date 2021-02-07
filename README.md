@@ -22,3 +22,5 @@ Following are the list of projects:
   -Avacado Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/avacado-project
   
   -HR Analytics Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/hr-analytics-project
+  
+  -Heart Disease Project: https://github.com/ashok-kumar-sharma/ds-projects/tree/master/heart-disease-project
