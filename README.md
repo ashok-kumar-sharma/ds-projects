@@ -16,3 +16,4 @@
 - [```Space Server Dataset Project:```](https://github.com/ashok-kumar-sharma/ds-projects/tree/master/space-server-dataset-project) https://github.com/ashok-kumar-sharma/ds-projects/tree/master/space-server-dataset-project
 - [```Covid 19 Dataset Project:```](https://github.com/ashok-kumar-sharma/ds-projects/tree/master/covid-19-dataset-project) https://github.com/ashok-kumar-sharma/ds-projects/tree/master/covid-19-dataset-project
 - [```Agriculture Dataset Project:```](https://github.com/ashok-kumar-sharma/ds-projects/tree/master/agriculture-dataset-project) https://github.com/ashok-kumar-sharma/ds-projects/tree/master/agriculture-dataset-project
+- [```Doctor's Consultation Fees Project```](https://github.com/ashok-kumar-sharma/ds-projects/tree/master/doctor-consultation-fee) https://github.com/ashok-kumar-sharma/ds-projects/tree/master/doctor-consultation-fee
